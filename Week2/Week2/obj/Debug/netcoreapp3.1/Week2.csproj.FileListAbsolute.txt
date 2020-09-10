@@ -1,0 +1,12 @@
+G:\HuiswerkProg\Week2\Week2\bin\Debug\netcoreapp3.1\Week2.exe
+G:\HuiswerkProg\Week2\Week2\bin\Debug\netcoreapp3.1\Week2.deps.json
+G:\HuiswerkProg\Week2\Week2\bin\Debug\netcoreapp3.1\Week2.runtimeconfig.json
+G:\HuiswerkProg\Week2\Week2\bin\Debug\netcoreapp3.1\Week2.runtimeconfig.dev.json
+G:\HuiswerkProg\Week2\Week2\bin\Debug\netcoreapp3.1\Week2.dll
+G:\HuiswerkProg\Week2\Week2\bin\Debug\netcoreapp3.1\Week2.pdb
+G:\HuiswerkProg\Week2\Week2\obj\Debug\netcoreapp3.1\Week2.AssemblyInfoInputs.cache
+G:\HuiswerkProg\Week2\Week2\obj\Debug\netcoreapp3.1\Week2.AssemblyInfo.cs
+G:\HuiswerkProg\Week2\Week2\obj\Debug\netcoreapp3.1\Week2.csproj.CoreCompileInputs.cache
+G:\HuiswerkProg\Week2\Week2\obj\Debug\netcoreapp3.1\Week2.dll
+G:\HuiswerkProg\Week2\Week2\obj\Debug\netcoreapp3.1\Week2.pdb
+G:\HuiswerkProg\Week2\Week2\obj\Debug\netcoreapp3.1\Week2.genruntimeconfig.cache
