@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Threading;
 
 namespace Week2
 {
@@ -6,30 +7,23 @@ namespace Week2
     {
         static void Main(string[] args)
         {
-            for (int i = 0; i < 20; i++)
-            {
-                if (i % 2 ==0)
-                    Console.WriteLine("Hello World!");
+            int result;
+            int getal;
+
+            for (int i = 0; i < 10; i++) {
+                result = 1;
+                getal = i;
+            
+                Console.WriteLine("2 tot de macht " + i + " is " + result);
             }
             Console.ReadKey();
 
-            int teller = 0;
-            while (teller < 10)
+            int wgetal = 2;
+            int tgetal = 0;
+            while (tgetal < 10) ;
             {
-                Console.WriteLine("Dobby" + teller);
-                teller++;
-
+                Console.WriteLine("2 tot de macht " + tgetal + " is " + wgetal);
             }
-            Console.ReadKey();
-
-            bool asleep = true;
-            while (asleep)
-            {
-                Console.WriteLine("Ben je al wakker?");
-                asleep = Console.ReadLine() != "ja";
-            }
-            Console.WriteLine("Mooi dat je wakker bent!");
-            Console.ReadKey();
         }
     }
 }

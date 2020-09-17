@@ -10,3 +10,4 @@ G:\HuiswerkProg\Week2\Week2\obj\Debug\netcoreapp3.1\Week2.csproj.CoreCompileInpu
 G:\HuiswerkProg\Week2\Week2\obj\Debug\netcoreapp3.1\Week2.dll
 G:\HuiswerkProg\Week2\Week2\obj\Debug\netcoreapp3.1\Week2.pdb
 G:\HuiswerkProg\Week2\Week2\obj\Debug\netcoreapp3.1\Week2.genruntimeconfig.cache
+G:\HuiswerkProg\Week2\Week2\obj\Debug\netcoreapp3.1\Week2.csprojAssemblyReference.cache

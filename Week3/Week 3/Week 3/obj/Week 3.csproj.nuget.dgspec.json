@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "G:\\HuiswerkProg\\Week2\\Week2\\Week2.csproj": {}
+    "G:\\HuiswerkProg\\Week3\\Week 3\\Week 3\\Week 3.csproj": {}
   },
   "projects": {
-    "G:\\HuiswerkProg\\Week2\\Week2\\Week2.csproj": {
+    "G:\\HuiswerkProg\\Week3\\Week 3\\Week 3\\Week 3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\HuiswerkProg\\Week2\\Week2\\Week2.csproj",
-        "projectName": "Week2",
-        "projectPath": "G:\\HuiswerkProg\\Week2\\Week2\\Week2.csproj",
+        "projectUniqueName": "G:\\HuiswerkProg\\Week3\\Week 3\\Week 3\\Week 3.csproj",
+        "projectName": "Week 3",
+        "projectPath": "G:\\HuiswerkProg\\Week3\\Week 3\\Week 3\\Week 3.csproj",
         "packagesPath": "C:\\Users\\tombu\\.nuget\\packages\\",
-        "outputPath": "G:\\HuiswerkProg\\Week2\\Week2\\obj\\",
+        "outputPath": "G:\\HuiswerkProg\\Week3\\Week 3\\Week 3\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\tombu\\AppData\\Roaming\\NuGet\\NuGet.Config",
